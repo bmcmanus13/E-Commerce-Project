@@ -1,4 +1,4 @@
 # E-Commerce-Project
 
-### resources 
+### Resources 
 https://www.kaggle.com/allunia/e-commerce-sales-forecast/
